@@ -30,8 +30,8 @@
 ## 팀 멤버
 
 | Frontend Developer | Backend Developer | AI Developer |
-| ------------------ | ----------------- | ------------ |
-| | | 
+| :------------------: | :-----------------: | :------------: |
+| <img src="https://avatars.githubusercontent.com/u/90609254?v=4" alt="chaeyeonan" width="200" height="200"> | <img src="https://avatars.githubusercontent.com/u/121334671?v=4" alt="chaeyeonan" width="200" height="200"> | <img src="https://avatars.githubusercontent.com/u/96541582?v=4" alt="chaeyeonan" width="200" height="200">  |
 | 안채연 | 김예지 | 송채원 | 
 | [chaeyeonan](https://github.com/chaeyeonan) | [yeji](https://github.com/xyzwv) | [chhaewxn](https://github.com/chhaewxn)|
 
