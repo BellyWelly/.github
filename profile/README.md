@@ -1,4 +1,6 @@
-# AI를 활용해 맞춤형 건강 조언을 제공하는 서비스, BellyWelly
+# BellyWelly
+AI를 활용해 맞춤형 건강 조언을 제공하는 서비스
+
 ![image](https://github.com/BellyWelly/.github/assets/90609254/3bb08624-f51d-4a5b-9ffd-d1fb4fd9c122)
 
 
